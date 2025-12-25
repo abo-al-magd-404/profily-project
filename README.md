@@ -11,7 +11,7 @@
 **A sleek, high-performance User Management System.**  
 Bridging the gap between modern UI and internal API architecture.
 
-[Live Demo](#) • [Report Bug](https://github.com/abo-al-magd-404/profily-project/issues) • [Request Feature](https://github.com/abo-al-magd-404/profily-project/issues)
+[Report Bug](https://github.com/abo-al-magd-404/profily-project/issues) • [Request Feature](https://github.com/abo-al-magd-404/profily-project/issues)
 
 </div>
 
