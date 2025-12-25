@@ -26,7 +26,6 @@ export default function Signup() {
     setIsLoading(true); // Show loading state
 
     try {
-      // ✅ التعديل هنا: استخدام المسار الداخلي بدلاً من http://localhost:5000
       const response = await fetch("/api/user/signup", {
         method: "POST",
         headers: {
